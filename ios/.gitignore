@@ -17,6 +17,7 @@ xcuserdata
 **/.generated/
 Flutter/App.framework
 Flutter/Flutter.framework
+Flutter/Flutter.framework.dSYM/
 Flutter/Flutter.podspec
 Flutter/Generated.xcconfig
 Flutter/ephemeral/
@@ -24,6 +25,7 @@ Flutter/app.flx
 Flutter/app.zip
 Flutter/flutter_assets/
 Flutter/flutter_export_environment.sh
+gRPC-Core/grpc.framework.dSYM/
 ServiceDefinitions.json
 Runner/GeneratedPluginRegistrant.*
 
