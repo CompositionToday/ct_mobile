@@ -1,4 +1,4 @@
-package com.example.compositiontodaymobile1
+package com.paradise.compositiontodaymobile1
 
 import io.flutter.embedding.android.FlutterActivity
 
